@@ -1,5 +1,5 @@
 ---
-title: 'STATS 415: Homework 5'
+title: 'ISLR - Project 5'
 author: "Kimberly A. Brink"
 date: "February 24, 2016"
 output: pdf_document
